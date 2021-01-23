@@ -1,0 +1,1 @@
+# Leitor-QR-code-
